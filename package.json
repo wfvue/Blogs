@@ -3,12 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint",
-    "doc:dev": "vuepress dev docs",
-    "doc:build": "vuepress build docs",
-    "doc:deploy": "bash deploy.sh"
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
   },
 
   "dependencies": { 
