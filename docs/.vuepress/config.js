@@ -1,8 +1,8 @@
 // 注意: base的值为github仓库的名称(/不能少)
 module.exports = {
 	base: '/Blogs/' /* 基础虚拟路径 */,
-	title: '自定义工具函数库', // 标题
-	description: '尚硅谷前端研究院', // 标题下的描述
+	title: 'wfvue函数库', // 标题
+	description: 'wfvue个人收集函数库', // 标题下的描述
 	themeConfig: {
 		// 主题配置
 		logo: '/logo.png',
